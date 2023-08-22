@@ -1,7 +1,3 @@
-Certainly! Here's the complete README with your name "Harsh Ranjan" included:
-
----
-
 # Movie Recommendation System using Content-Based Filtering
 
 This repository contains a simple movie recommendation system implemented in Python using content-based filtering techniques. The system suggests similar movies to a user based on their input of a favorite movie title.
@@ -57,4 +53,3 @@ This script was created by Harsh Ranjan.
 
 ---
 
-Feel free to copy and paste this text into a README file in your project repository, and make any additional customizations you'd like.
